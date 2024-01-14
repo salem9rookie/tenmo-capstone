@@ -1,0 +1,15 @@
+2024-01-14T16:06:06.2413509 http headers set
+2024-01-14T16:06:06.2423487 tserv - accessing url base /send
+2024-01-14T16:06:06.2423487 tserv - attempting post for object createTransfer
+2024-01-14T16:06:06.3185342 sendBucks selected
+2024-01-14T16:06:08.4414404 view current balance selected
+2024-01-14T16:06:13.2864682 http header getAllTransfers
+2024-01-14T16:06:17.3743585 http set for getTransferByTransferId
+2024-01-14T16:06:17.4014315 Error retrieving list of transfers: 500 : [{"timestamp":"2024-01-14T21:06:17.395+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2024-01-14T16:06:17.4014315 viewTransferHistory selected
+2024-01-14T16:06:19.8163747 view current balance selected
+2024-01-14T16:06:27.6702555 http headers set
+2024-01-14T16:06:27.6702555 tserv - accessing url base /send
+2024-01-14T16:06:27.6702555 tserv - attempting post for object createTransfer
+2024-01-14T16:06:27.6916628 sendBucks selected
+2024-01-14T16:06:29.757361 view current balance selected

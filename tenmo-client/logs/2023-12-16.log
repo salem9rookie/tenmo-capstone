@@ -1,0 +1,16 @@
+2023-12-16T21:32:40.71031 Error retrieving transfers: PreparedStatementCallback; SQL [SELECT t.*, u.username AS accountFrom, v.username AS userTo FROM transfer t JOIN account a ON t.account_from = a.account_id JOIN account b ON t.account_to = b.account_id JOIN tenmo_user u ON a.user_id = u.user_id JOIN tenmo_user v ON b.user_id = v.user_id WHERE a.user_id = ? OR b.user_id = ?]; No value specified for parameter 2.; nested exception is org.postgresql.util.PSQLException: No value specified for parameter 2.
+2023-12-16T21:32:40.71031 Error retrieving transfers: Could not access database
+2023-12-16T21:48:43.8650492 Error retrieving transfers: PreparedStatementCallback; SQL []; The column index is out of range: 1, number of columns: 0.; nested exception is org.postgresql.util.PSQLException: The column index is out of range: 1, number of columns: 0.
+2023-12-16T21:48:43.8741485 Error retrieving transfers: Could not access database
+2023-12-16T21:53:05.4306419 Error retrieving transfers: Invalid column name; nested exception is java.sql.SQLException: Invalid column name
+2023-12-16T21:53:05.4316372 Error retrieving transfers: Could not access database
+2023-12-16T21:57:04.5447744 Error retrieving transfers: java.sql.SQLException: Invalid column name
+2023-12-16T21:57:04.5447744 Error retrieving transfers: Could not access database
+2023-12-16T21:57:48.7347155 Error retrieving transfers: java.sql.SQLException: Invalid column name
+2023-12-16T21:57:48.7362216 Error retrieving transfers: Could not access database
+2023-12-16T21:58:23.9675084 Error retrieving transfers: java.sql.SQLException: Invalid column name
+2023-12-16T21:58:23.9685083 Error retrieving transfers: Could not access database
+2023-12-16T21:58:27.3373984 Error retrieving transfers: java.sql.SQLException: Invalid column name
+2023-12-16T21:58:27.3373984 Error retrieving transfers: Could not access database
+2023-12-16T21:59:06.4040355 Error retrieving transfers: java.sql.SQLException: Invalid column name
+2023-12-16T21:59:06.4050335 Error retrieving transfers: Could not access database

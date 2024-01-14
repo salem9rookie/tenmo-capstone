@@ -1,0 +1,97 @@
+2023-12-24T11:49:54.6489001 Error sending transfer: 500 : [{"timestamp":"2023-12-24T16:49:54.637+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T11:53:24.2531586 Error retrieving transfers: 500 : [{"timestamp":"2023-12-24T16:53:24.251+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2023-12-24T11:53:42.1821528 Error sending transfer: 500 : [{"timestamp":"2023-12-24T16:53:42.180+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:03:13.2411629 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:03:13.229+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:14:24.7957985 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:14:24.787+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:17:04.3241932 Error retrieving transfers: 500 : [{"timestamp":"2023-12-24T17:17:04.310+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2023-12-24T12:17:25.5877519 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:17:25.586+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:19:54.3553058 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:19:54.345+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:28:22.8419165 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:28:22.832+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:28:22.8419165 Response body: {"timestamp":"2023-12-24T17:28:22.832+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T12:28:22.8419165 sendbucks appflow Error sending transfer
+2023-12-24T12:30:14.9539001 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:30:14.942+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:30:14.9539001 Response body: {"timestamp":"2023-12-24T17:30:14.942+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T12:30:14.9539001 sendbucks appflowError sending transfer
+2023-12-24T12:39:30.5079179 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:39:30.439+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:39:30.5089166 Response body: {"timestamp":"2023-12-24T17:39:30.439+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T12:40:00.3133042 sendbucks appflowError sending transfer
+2023-12-24T12:40:12.1840276 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:40:12.170+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:40:12.1850284 Response body: {"timestamp":"2023-12-24T17:40:12.170+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T12:40:12.1850284 sendbucks appflowError sending transfer
+2023-12-24T12:45:56.1432368 Error retrieving transfers: 500 : [{"timestamp":"2023-12-24T17:45:56.127+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2023-12-24T12:46:06.1692466 Error sending transfer: 500 : [{"timestamp":"2023-12-24T17:46:06.167+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T12:46:06.1692466 Response body: {"timestamp":"2023-12-24T17:46:06.167+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T12:46:06.1692466 sendbucks appflowError sending transfer
+2023-12-24T13:02:58.281663 sendbucks appflowC:\Users\sxhun\capstoneProjects\duplicates\module-2-capstone\tenmo-client\ActionLogs\2023-12-24.log (The system cannot find the path specified)
+2023-12-24T13:08:16.0788276 http header getAllTransfers
+2023-12-24T13:08:22.7870243 http set for getTransferByTransferId
+2023-12-24T13:08:22.8059985 Exchange getTransferByTransferId
+2023-12-24T13:08:22.8125796 viewTransferHistory selected
+2023-12-24T13:08:33.7908043 http headers set
+2023-12-24T13:08:33.7908043 tserv - accessing url base /send
+2023-12-24T13:08:33.7908043 tserv - attempting post for object createTransfer
+2023-12-24T13:08:33.860092 tserv - create - Error rest client: 500 : [{"timestamp":"2023-12-24T18:08:33.854+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T13:08:33.860092 tserv - create - Response body: {"timestamp":"2023-12-24T18:08:33.854+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T13:08:33.860092 sendbucks appflowError sending transfer
+2023-12-24T13:13:54.4424043 http headers set
+2023-12-24T13:13:54.4434008 tserv - accessing url base /send
+2023-12-24T13:13:54.4434008 tserv - attempting post for object createTransfer
+2023-12-24T13:13:54.4809575 tserv - create - Error rest client: 500 : [{"timestamp":"2023-12-24T18:13:54.477+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T13:13:54.4809575 tserv - create - Response body: {"timestamp":"2023-12-24T18:13:54.477+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T13:13:54.4814646 sendbucks appflowError sending transfer
+2023-12-24T13:14:39.1273599 http headers set
+2023-12-24T13:14:39.128367 tserv - accessing url base /send
+2023-12-24T13:14:39.128367 tserv - attempting post for object createTransfer
+2023-12-24T13:14:39.166262 tserv - create - Error rest client: 500 : [{"timestamp":"2023-12-24T18:14:39.163+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T13:14:39.166262 tserv - create - Response body: {"timestamp":"2023-12-24T18:14:39.163+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T13:14:39.1667652 sendbucks appflowError sending transfer
+2023-12-24T14:06:57.8502897 view current balance selected
+2023-12-24T14:07:01.3704511 http header getAllTransfers
+2023-12-24T14:07:04.3227985 http set for getTransferByTransferId
+2023-12-24T14:07:04.3414063 Error retrieving list of transfers: 500 : [{"timestamp":"2023-12-24T19:07:04.337+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2023-12-24T14:07:04.3414063 viewTransferHistory selected
+2023-12-24T14:07:13.0499691 http headers set
+2023-12-24T14:07:13.0499691 tserv - accessing url base /send
+2023-12-24T14:07:13.0499691 tserv - attempting post for object createTransfer
+2023-12-24T14:07:13.0901181 tserv - create - Error rest client: 500 : [{"timestamp":"2023-12-24T19:07:13.088+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T14:07:13.0901181 tserv - create - Response body: {"timestamp":"2023-12-24T19:07:13.088+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T14:07:13.0901181 sendbucks appflowError sending transfer
+2023-12-24T14:11:49.7677887 http headers set
+2023-12-24T14:11:49.7677887 tserv - accessing url base /send
+2023-12-24T14:11:49.7677887 tserv - attempting post for object createTransfer
+2023-12-24T14:11:49.8035034 tserv - create - Error rest client: 500 : [{"timestamp":"2023-12-24T19:11:49.800+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}]
+2023-12-24T14:11:49.8035034 tserv - create - Response body: {"timestamp":"2023-12-24T19:11:49.800+00:00","status":500,"error":"Internal Server Error","message":"Error accessing database","path":"/transfer/send"}
+2023-12-24T14:11:49.8035034 sendbucks appflowError sending transfer
+2023-12-24T14:20:15.8816177 http headers set
+2023-12-24T14:20:15.8826153 tserv - accessing url base /send
+2023-12-24T14:20:15.8826153 tserv - attempting post for object createTransfer
+2023-12-24T14:20:15.9496198 sendBucks selected
+2023-12-24T14:20:18.1660592 view current balance selected
+2023-12-24T14:20:26.7377601 http header getAllTransfers
+2023-12-24T14:20:29.6964091 http set for getTransferByTransferId
+2023-12-24T14:20:29.7239148 Error retrieving list of transfers: 500 : [{"timestamp":"2023-12-24T19:20:29.718+00:00","status":500,"error":"Internal Server Error","message":"Transfer not found","path":"/transfer/0"}]
+2023-12-24T14:20:29.7239148 viewTransferHistory selected
+2023-12-24T14:20:39.4977529 http headers set
+2023-12-24T14:20:39.4977529 tserv - accessing url base /send
+2023-12-24T14:20:39.4977529 tserv - attempting post for object createTransfer
+2023-12-24T14:20:39.5135437 sendBucks selected
+2023-12-24T14:20:41.9778136 view current balance selected
+2023-12-24T14:20:50.153214 http header getAllTransfers
+2023-12-24T14:20:55.0965335 http set for getTransferByTransferId
+2023-12-24T14:20:55.1070449 Exchange getTransferByTransferId
+2023-12-24T14:20:55.1135363 viewTransferHistory selected
+2023-12-24T14:21:13.1129413 http headers set
+2023-12-24T14:21:13.1129413 tserv - accessing url base /send
+2023-12-24T14:21:13.1129413 tserv - attempting post for object createTransfer
+2023-12-24T14:21:13.1504654 sendBucks selected
+2023-12-24T14:21:15.5918485 view current balance selected
+2023-12-24T14:25:19.9658751 view current balance selected
+2023-12-24T14:25:29.8076662 http headers set
+2023-12-24T14:25:29.8076662 tserv - accessing url base /send
+2023-12-24T14:25:29.8076662 tserv - attempting post for object createTransfer
+2023-12-24T14:25:29.8427974 sendBucks selected
+2023-12-24T14:25:34.4817232 view current balance selected
+2023-12-24T14:25:37.7130312 http header getAllTransfers
+2023-12-24T14:25:40.9205841 http set for getTransferByTransferId
+2023-12-24T14:25:40.9350344 Exchange getTransferByTransferId
+2023-12-24T14:25:40.941528 viewTransferHistory selected
